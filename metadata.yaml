@@ -1,0 +1,29 @@
+_repo: Sea-mew-abbey_72089
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warden, Florence
+    alias: James, Florence Alice Price
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '6480'
+    url: http://www.gutenberg.org/2009/agents/6480
+    wikipedia: https://en.wikipedia.org/wiki/Florence_Warden
+description: ''
+gutenberg_issued: '2023-11-10'
+identifiers:
+  gutenberg: '72089'
+language: en
+pgterms:marc904: https://archive.org/details/seamewabbeyanov00wardgoog/
+pgterms:marc905: 20231108095456warden
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aNEW YORK :$bUNITED STATES BOOK COMPANY, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sea mew abbey
+url: http://www.gutenberg.org/ebooks/72089
